@@ -57,24 +57,6 @@ O projeto prioriza a confiabilidade através de testes unitários rigorosos cobr
 * **Relatórios:** Biblioteca iText PDF
 * **Controle de Versão:** Git & GitHub
 
-## 📦 Como Rodar o Projeto
-
-### Pré-requisitos
-* Java JDK instalado.
-* Apache NetBeans (ou outra IDE Java).
-
-### Passo a Passo
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SEU-USUARIO/chicken-house.git](https://github.com/SEU-USUARIO/chicken-house.git)
-    ```
-2.  **Abra no NetBeans:**
-    * Vá em `File` > `Open Project` e selecione a pasta clonada.
-3.  **Adicione as Dependências:**
-    * Certifique-se de que o JUnit e a biblioteca iText (`.jar`) estão no *Classpath* do projeto.
-4.  **Execute:**
-    * Rode o arquivo principal `Main.java` ou `DashboardView.java`.
-
 ## 📅 Roadmap de Desenvolvimento
 
 O projeto segue um cronograma de 4 semanas:
@@ -86,9 +68,9 @@ O projeto segue um cronograma de 4 semanas:
 
 ## 📄 Documentação
 
-A documentação completa dos requisitos e fluxos de dados pode ser encontrada na pasta [`/docs`](./docs) deste repositório:
-* [Relatório Técnico](./docs/RelatorioTecnico.pdf)
-* [Matriz de Requisitos](./docs/Requisitos.xlsx)
+A documentação completa dos requisitos e fluxos de dados pode ser encontrada na pasta [./documentos]) deste repositório:
+* [Relatório Técnico](./documentos/RelatorioTecnico.pdf)
+* [Matriz de Requisitos](./documentos/Requisitos.xlsx)
 
 ## ✒️ Autor
 
